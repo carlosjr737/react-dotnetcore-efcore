@@ -1,0 +1,1 @@
+# CURSO FULL-STACK com REACT, ASPN.NET Core e EF Core
