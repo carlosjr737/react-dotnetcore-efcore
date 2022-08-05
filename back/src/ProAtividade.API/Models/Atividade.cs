@@ -7,9 +7,10 @@ namespace ProAtividade.API.Models
 {
     public class Atividade
     {
-            public int Id { get; set; }
-            public string Titulo { get; set; }
-            public string Descricao { get; set; }
-            public string Prioridade { get; set;}
+        public int id { get; set; }
+        public String Titulo { get; set; }
+        public String Descicao { get; set; }
+        public String Prioridade { get; set; }
+    
     }
 }
